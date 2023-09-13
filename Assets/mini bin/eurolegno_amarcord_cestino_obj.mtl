@@ -1,0 +1,40 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 16.02.2010 17:49:37
+
+newmtl eurolegno_amarcord_cestino_mtl_1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.9529 0.6510 0.9176
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl eurolegno_amarcord_cestino_mtl_2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl eurolegno_amarcord_cestino_mtl_3
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_bump -bm 0.1500 "\\FILE-SERVER\designconnected\3d models NEW\1.10. accessories\1.10.3. other\eurolegno_amarcord_cestino\pack_eurolegno_amarcord_cestino\maps\dcmap_eurolegno_amarcord_cestino_1.jpg"
+	bump -bm 0.1500 "\\FILE-SERVER\designconnected\3d models NEW\1.10. accessories\1.10.3. other\eurolegno_amarcord_cestino\pack_eurolegno_amarcord_cestino\maps\dcmap_eurolegno_amarcord_cestino_1.jpg"
